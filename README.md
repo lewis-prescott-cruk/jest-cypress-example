@@ -25,4 +25,4 @@ Using [cy-api plugin](https://github.com/bahmutov/cy-api)
 
 ### Useful Resources
 
-[JavaScript API Testing using Supertest](https://testautomationu.applitools.com/javascript-api-testing/)
+[JavaScript API Testing using Supertest and Nock](https://testautomationu.applitools.com/javascript-api-testing/)
